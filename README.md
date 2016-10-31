@@ -12,7 +12,7 @@ R - 3.3.1 | R Studio 0.99.903
 
 Prerequisites -
 
-1. Ensure all the three files - data file (csv), ipynb and R files in the same location and .
+1. Ensure all the three files - data file (csv), ipynb and R files in the same location and run the python code.
 	- To run all the cells in the python notebook, follow the work flow - Click 'Cell' --> 'Run All'
 
 2. Python code uses the following packages - pandas, numpy, tabulate, seaborn, matplotlib and sklearn.  If any package is missing, use the following in anacond prompt to install the packages 
