@@ -5,10 +5,13 @@ The Python and R files have different functions
 	- .R file - To create models on top of the updated data created in the former step.
 	
 Tools Versions Used -
+
 Python Version 2.7.12 | Anaconda 4.1.1 (packages individual versions is mentioned in the ipynb file)
+
 R - 3.3.1 | R Studio 0.99.903
 
 Prerequisites -
+
 1. Ensure all the three files - data file (csv), ipynb and R files in the same location and .
 	- To run all the cells in the python notebook, follow the work flow - Click 'Cell' --> 'Run All'
 
