@@ -13,6 +13,7 @@ Prerequisites -
 	- To run all the cells in the python notebook, follow the work flow - Click 'Cell' --> 'Run All'
 
 2. Python code uses the following packages - pandas, numpy, tabulate, seaborn, matplotlib and sklearn.  If any package is missing, use the following in anacond prompt to install the packages 
+
 	-pip install "package_name" 
 
 3. Python saves a csv file - "updated_data.csv" which would be used by R to create models on the updated data set.  
